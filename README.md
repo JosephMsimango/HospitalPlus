@@ -1,2 +1,2 @@
 # HospitalPlusLog 
-LogIn and SignUp page.
+LogIn and SignUp pages.
